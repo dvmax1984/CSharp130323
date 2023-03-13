@@ -1,4 +1,4 @@
-public static class Library
+public static class Library3
 {
     public static int[] makeArray()
     {
